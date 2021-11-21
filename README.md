@@ -1,2 +1,2 @@
-# Python_Basic
-Learning the basic concept of Python
+# Python_tutorial_programmers
+Coding test based on the basic concepts from 'Python_tutorial'
